@@ -11,6 +11,12 @@ Conteúdos da apresentação "Docker Compose e Testcontainers podem ser ótimas 
 - Bogus for .NET: https://github.com/bchavez/Bogus
 - Faker.js: https://fakerjs.dev/
 
+## Exemplos
+- .NET 10 + OpenTelemetry + Grafana: https://github.com/renatogroffe/aspnetcore10-opentelemetry-grafana-tempo-loki-prometheus-postgres-testcontainers_contagemacessos
+- k6 + MySQL + Azure DevOps: https://github.com/renatogroffe/k6-buildextensions-mysql-loadtests-azdevops-pipelines
+- MCP Server do MongoDB: 
+- Function App para geração de dados fake com Bogus: 
+
 ## MCP Servers úteis ao se trabalhar com Bancos de Dados
 
 | Descrição | Comando / URL de Ativação | Link |
