@@ -9,7 +9,7 @@ Conteúdos da apresentação "Docker Compose e Testcontainers podem ser ótimas 
 - OpenTelemetry: https://opentelemetry.io/
 - Grafana k6: https://k6.io/
 - Bogus for .NET: https://github.com/bchavez/Bogus
-- https://fakerjs.dev/
+- Faker.js: https://fakerjs.dev/
 
 ## MCP Servers úteis ao se trabalhar com Bancos de Dados
 
