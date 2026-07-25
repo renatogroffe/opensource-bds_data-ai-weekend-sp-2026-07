@@ -14,8 +14,8 @@ Conteúdos da apresentação "Docker Compose e Testcontainers podem ser ótimas 
 ## Exemplos
 - .NET 10 + OpenTelemetry + Grafana: https://github.com/renatogroffe/aspnetcore10-opentelemetry-grafana-tempo-loki-prometheus-postgres-testcontainers_contagemacessos
 - k6 + MySQL + Azure DevOps: https://github.com/renatogroffe/k6-buildextensions-mysql-loadtests-azdevops-pipelines
-- MCP Server do MongoDB: 
-- Function App para geração de dados fake com Bogus: 
+- MCP Server do MongoDB: https://github.com/renatogroffe/mongodb-mcp-vscode-githubcopilot
+- Function App para geração de dados fake com Bogus: https://github.com/renatogroffe/azurefunctions-dotnet10-mcp-fakedata
 
 ## MCP Servers úteis ao se trabalhar com Bancos de Dados
 
