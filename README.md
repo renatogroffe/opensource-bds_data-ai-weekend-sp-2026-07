@@ -8,7 +8,8 @@ Conteúdos da apresentação "Docker Compose e Testcontainers podem ser ótimas 
 - Grafana GROT Academy: https://learn.grafana.com/
 - OpenTelemetry: https://opentelemetry.io/
 - Grafana k6: https://k6.io/
-
+- Bogus for .NET: https://github.com/bchavez/Bogus
+- https://fakerjs.dev/
 
 ## MCP Servers úteis ao se trabalhar com Bancos de Dados
 
@@ -20,4 +21,5 @@ Conteúdos da apresentação "Docker Compose e Testcontainers podem ser ótimas 
 | MCP Oficial do Excalidraw | `https://mcp.excalidraw.com` | https://github.com/excalidraw/excalidraw-mcp |
 | Extensão Oficial do Postgres (inclui MCP Server) | - | https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-pgsql |
 | Extensão Oficial do SQL Server (inclui MCP Server) | - | https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql |
+| Extensão Oficial do MongoDB | - | https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode |
 | Extensão Oficial do Mermaid (inclui MCP Server) | - | https://marketplace.visualstudio.com/items?itemName=MermaidChart.vscode-mermaid-chart |
