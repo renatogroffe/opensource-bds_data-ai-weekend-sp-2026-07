@@ -1,5 +1,5 @@
 # opensource-bds_data-ai-weekend-sp-2026-07
-Conteúdos da apresentação "Produtividade com Open Source ao implementar e gerenciar Bancos de Dados!".
+Conteúdos da apresentação "Produtividade com Open Source ao implementar e gerenciar Bancos de Dados!". | Tecnologias e tópicos abordados: Testcontainers, Docker Compose, OpenTelemetry, Grafana, k6, Bogus, .NET...
 
 ## Tecnologias, tópicos e soluções abordadas
 
